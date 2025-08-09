@@ -36,7 +36,7 @@ if __name__ == '__main__':
 
     in_file = args.in_file
     out_file = args.out_file
-    weights_file = '/Users/snaplab/Projects/ct_seg/HeadCTSegmentation/weights.hdf5'
+    weights_file = '/Users/snaplab/Projects/ct_seg/weights.hdf5'
 
     # Prepare model
 
